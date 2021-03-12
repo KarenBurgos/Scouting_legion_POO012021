@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\GitHubIntroduction.exe
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\GitHubIntroduction.deps.json
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\GitHubIntroduction.runtimeconfig.json
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\GitHubIntroduction.runtimeconfig.dev.json
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\GitHubIntroduction.dll
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\ref\GitHubIntroduction.dll
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\bin\Debug\net5.0\GitHubIntroduction.pdb
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.AssemblyInfo.cs
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.dll
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\ref\GitHubIntroduction.dll
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.pdb
+C:\Users\HP\Desktop\POO0121\GitHubIntroduction\obj\Debug\net5.0\GitHubIntroduction.genruntimeconfig.cache
