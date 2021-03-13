@@ -6,7 +6,8 @@ namespace GitHubIntroduction
     {
         static void Main(string[] args)
         {
-            
+             
+             int a = 0, b = 0;
             Console.Write("Enter a value for a: ");
             a = Int32.Parse(Console.ReadLine());
 
